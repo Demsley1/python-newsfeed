@@ -13,7 +13,7 @@
 
   ## *Installation*
 
-  The app is deployed on hosted on heroku at this website    . If you want to view the code, and inspect the python data structure you can download the code base from this github repo.
+  The app is deployed on hosted on heroku at this website: [tech-news-blog-python](https://tech-news-blog-python.herokuapp.com/). If you want to view the code, and inspect the python data structure you can download the code base from the project github repo: [python-newsfeed](https://github.com/Demsley1/python-newsfeed)
 
   ## Usage 
 
